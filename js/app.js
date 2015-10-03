@@ -1,6 +1,6 @@
 
-
 $(document).ready(function() {
+	// animating ryu
 
 	$('.ryu').mouseenter(function() {
 		$('.ryu-still').hide();
