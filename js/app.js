@@ -8,6 +8,7 @@ $(document).ready(function() {
 	})
 	.mouseleave(function() {
 		$('.ryu-ready').hide();
+		$('.ryu-throwing').hide();
 		$('.ryu-still').show();
 	})
 	.mousedown(function() {
